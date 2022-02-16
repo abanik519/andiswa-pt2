@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/andiswa-pt2/static/css/main.cb825541.css",
-    "main.js": "/andiswa-pt2/static/js/main.ed9e17f8.js",
+    "main.css": "/andiswa-pt2/static/css/main.fee1267d.css",
+    "main.js": "/andiswa-pt2/static/js/main.cff086fd.js",
     "static/js/787.0b25996a.chunk.js": "/andiswa-pt2/static/js/787.0b25996a.chunk.js",
-    "static/media/Picture8.png": "/andiswa-pt2/static/media/Picture8.b38bc478853ba380731b.png",
-    "static/media/Picture9.png": "/andiswa-pt2/static/media/Picture9.9c16dcd1bef492ce8cdb.png",
-    "static/media/Media2.mp3": "/andiswa-pt2/static/media/Media2.a6155f14bf2ac5b29184.mp3",
+    "static/media/Picture9.png": "/andiswa-pt2/static/media/Picture9.b38bc478853ba380731b.png",
+    "static/media/Picture10.png": "/andiswa-pt2/static/media/Picture10.9c16dcd1bef492ce8cdb.png",
+    "static/media/Picture8.png": "/andiswa-pt2/static/media/Picture8.0321665904339880e0a6.png",
+    "static/media/end.mp3": "/andiswa-pt2/static/media/end.d3d25fac9208407bc47a.mp3",
     "static/media/Picture2.png": "/andiswa-pt2/static/media/Picture2.485a613d17c29c432d18.png",
     "static/media/Picture1.png": "/andiswa-pt2/static/media/Picture1.7dfc891da75f88a2be76.png",
     "static/media/Picture4.png": "/andiswa-pt2/static/media/Picture4.67b0252040c741d59a4e.png",
@@ -25,12 +26,12 @@
     "static/media/01.jpg": "/andiswa-pt2/static/media/01.b0a55b04186a85394fe6.jpg",
     "static/media/Avatar.png": "/andiswa-pt2/static/media/Avatar.01842f6936c3117820fd.png",
     "index.html": "/andiswa-pt2/index.html",
-    "main.cb825541.css.map": "/andiswa-pt2/static/css/main.cb825541.css.map",
-    "main.ed9e17f8.js.map": "/andiswa-pt2/static/js/main.ed9e17f8.js.map",
+    "main.fee1267d.css.map": "/andiswa-pt2/static/css/main.fee1267d.css.map",
+    "main.cff086fd.js.map": "/andiswa-pt2/static/js/main.cff086fd.js.map",
     "787.0b25996a.chunk.js.map": "/andiswa-pt2/static/js/787.0b25996a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb825541.css",
-    "static/js/main.ed9e17f8.js"
+    "static/css/main.fee1267d.css",
+    "static/js/main.cff086fd.js"
   ]
 }
