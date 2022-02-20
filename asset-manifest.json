@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/andiswa-pt2/static/css/main.fee1267d.css",
-    "main.js": "/andiswa-pt2/static/js/main.cff086fd.js",
+    "main.css": "/andiswa-pt2/static/css/main.1e21edae.css",
+    "main.js": "/andiswa-pt2/static/js/main.1c0fddea.js",
     "static/js/787.0b25996a.chunk.js": "/andiswa-pt2/static/js/787.0b25996a.chunk.js",
     "static/media/Picture9.png": "/andiswa-pt2/static/media/Picture9.b38bc478853ba380731b.png",
     "static/media/Picture10.png": "/andiswa-pt2/static/media/Picture10.9c16dcd1bef492ce8cdb.png",
@@ -26,12 +26,12 @@
     "static/media/01.jpg": "/andiswa-pt2/static/media/01.b0a55b04186a85394fe6.jpg",
     "static/media/Avatar.png": "/andiswa-pt2/static/media/Avatar.01842f6936c3117820fd.png",
     "index.html": "/andiswa-pt2/index.html",
-    "main.fee1267d.css.map": "/andiswa-pt2/static/css/main.fee1267d.css.map",
-    "main.cff086fd.js.map": "/andiswa-pt2/static/js/main.cff086fd.js.map",
+    "main.1e21edae.css.map": "/andiswa-pt2/static/css/main.1e21edae.css.map",
+    "main.1c0fddea.js.map": "/andiswa-pt2/static/js/main.1c0fddea.js.map",
     "787.0b25996a.chunk.js.map": "/andiswa-pt2/static/js/787.0b25996a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fee1267d.css",
-    "static/js/main.cff086fd.js"
+    "static/css/main.1e21edae.css",
+    "static/js/main.1c0fddea.js"
   ]
 }
